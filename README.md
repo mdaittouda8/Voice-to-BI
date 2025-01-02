@@ -13,7 +13,7 @@ This app allows you to speak natural language queries, converts them into SQL qu
 
 Before running the app, make sure you have the following:
 
-1. Python 3.7+ installed on your machine.
+1. Python 3.11+ installed on your machine.
 2. An OpenAI API key.
 3. An Azure Speech API key.
 4. Access to an Azure SQL Database.
@@ -53,7 +53,7 @@ Before running the app, make sure you have the following:
     In the terminal, navigate to the directory containing the script and run:
 
     ```bash
-    streamlit run your_script_name.py
+    streamlit run app.py
     ```
 
 2. **Interact with the App**:
@@ -91,9 +91,6 @@ This function executes the generated SQL query on an Azure SQL Database using th
 
 This function generates different types of charts (bar, line, or pie) based on the data returned from the SQL query. It uses Plotly for chart generation.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
