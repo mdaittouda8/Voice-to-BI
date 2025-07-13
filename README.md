@@ -1,3 +1,6 @@
+![My Photo](images/archtcttr.png)
+
+
 # Speech to SQL Query & Visualization App
 
 This app allows you to speak natural language queries, converts them into SQL queries using OpenAI's GPT-4, executes the queries on an Azure SQL Database, and visualizes the results in interactive charts. It also integrates Azure's Cognitive Services for speech recognition.
