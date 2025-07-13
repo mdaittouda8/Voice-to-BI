@@ -1,4 +1,5 @@
-![My Photo](images/archtcttr.png)
+![project architecture](https://github.com/mdaittouda8/Voice-to-BI/blob/main/archtcttr.png)
+
 
 
 # Speech to SQL Query & Visualization App
